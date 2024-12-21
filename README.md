@@ -29,8 +29,8 @@ git clone https://github.com/username/file-monitor.git
 cd file-monitor
 ```
 Run the Script ▶️
-Run the script from PowerShell:
 
+Run the script from PowerShell:
 ```powershell
 .\file_check.ps1
 ```

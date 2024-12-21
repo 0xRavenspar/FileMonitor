@@ -32,5 +32,5 @@ Run the Script ▶️
 
 Run the script from PowerShell:
 ```powershell
-.\file_check.ps1
+.\File_check.ps1
 ```

@@ -32,6 +32,5 @@ Run the Script ▶️
 Run the script from PowerShell:
 
 ```powershell
-Copy code
 .\file_check.ps1
 ```
